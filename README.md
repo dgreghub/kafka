@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=OneDayOneCommit&fontSize=45)	
+#Kafka Mini Project<p>
 
-<p>#Kafka Mini Project<p>
 
-
-**#1. Kafka Client Producer & Consumer**
+<h3>#1. Kafka Client Producer & Consumer</h3>
 https://docs.confluent.io/clients-kafka-java/current/overview.html#java-installation
 
 
